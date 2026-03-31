@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Md Zuber Inamdar 👋</h1>
-<h3 align="center">MSc in Statistics | Data Analyst | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi there, I'm Md Zuber 👋</h1>
+<h3 align="center">Data Science | Data Analyst | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://my-portfolio-81ma.onrender.com/" target="_blank">
@@ -29,6 +29,8 @@ Data-driven MSc in Statistics graduate with a solid foundation in Statistical Mo
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SAS](https://img.shields.io/badge/SAS-0033A0?style=for-the-badge&logo=sas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97656?style=for-the-badge&logo=tableau&logoColor=white)
 <br>
 **Other Tools:** MS-Excel
 
