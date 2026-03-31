@@ -1,8 +1,19 @@
 # Md Zuber Inamdar
 
-**Email**: myselfzuberinamdar@gmail.com | **Phone**: +91 9019339083  
-**GitHub**: [mdzuber0303](https://github.com/mdzuber0303)  
-**Portfolio**: [https://my-portfolio-81ma.onrender.com/](https://my-portfolio-81ma.onrender.com/)  
+<p align="left">
+  <a href="mailto:myselfzuberinamdar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+919019339083">
+    <img src="https://img.shields.io/badge/Phone-%2B91_9019339083-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  <a href="https://github.com/mdzuber0303">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://my-portfolio-81ma.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0055FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
